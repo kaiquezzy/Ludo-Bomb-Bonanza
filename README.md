@@ -1,7 +1,4 @@
-import base64
-
-# Criando o conteúdo do arquivo README.md baseado na conversa
-readme_content = """# Ludo Bomb Bonanza 🎲💣
+# Ludo Bomb Bonanza 🎲💣
 
 O **Ludo Bomb Bonanza** é uma adaptação digital inspirada no clássico jogo de tabuleiro Ludo, integrada com dinâmicas modernas de *crash games* e sistemas de risco e recompensa. Este repositório armazena o código-fonte, a interface e a lógica computacional do jogo.
 
@@ -28,6 +25,17 @@ Diferente do Ludo tradicional focado apenas em estratégia pura entre quatro jog
 
 ---
 
-## 🛠️ Estrutura Técnica do Repositório
+## 🛠️ Tecnologias Utilizadas
+
+Este projeto foi construído utilizando as tecnologias fundamentais do desenvolvimento web:
+
+* **HTML:** Utilizado para estruturar o tabuleiro, as casas do jogo, os peões e o painel de controle do usuário.
+* **CSS** Responsável por todo o design visual, estilização das cores do tabuleiro, posicionamento dos elementos e pelas animações das explosões e movimentação.
+* **JavaScript** O coração do jogo. Controla o loop principal, a movimentação dos peões, o cálculo dos multiplicadores, a lógica de *Cash Out* e o motor de RNG (Gerador de Números Aleatórios) para os dados e bombas.
+
+---
+
+## 📂 Estrutura Técnica do Repositório
 
 O projeto está organizado de maneira limpa e modular para facilitar a manutenção e leitura do código:
+
