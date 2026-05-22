@@ -269,5 +269,5 @@ Porque na Arena Suprema…
 
 > qualquer rodada pode virar uma explosão. 💥
 
-O projeto está organizado de maneira limpa e modular para facilitar a manutenção e leitura do código:
+
 
